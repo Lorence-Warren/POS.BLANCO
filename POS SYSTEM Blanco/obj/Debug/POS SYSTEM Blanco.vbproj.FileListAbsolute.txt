@@ -1,0 +1,50 @@
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.exe.config
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.exe
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.pdb
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.xml
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form1.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Resources.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.vbproj.GenerateResource.Cache
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.exe
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.xml
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.pdb
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form2.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form3.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form4.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form5.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form6.resources
+C:\Users\LORENCE WARREN\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form7.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form3.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form4.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form5.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form6.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form7.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form8.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.exe.config
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.exe
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.xml
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.pdb
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.exe
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.pdb
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\bin\Debug\POS SYSTEM Blanco.xml
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form1.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form2.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form3.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form4.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form5.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form6.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form7.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Form8.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS_SYSTEM_Blanco.Resources.resources
+C:\Users\LORENCE WARREN\Desktop\POS SYSTEM Blanco\POS SYSTEM Blanco\obj\Debug\POS SYSTEM Blanco.vbproj.GenerateResource.Cache
